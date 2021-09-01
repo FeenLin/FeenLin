@@ -2,8 +2,8 @@
 ---
 - 華梵電子系碩士
 
-## 個人學習筆記
+## [HackMD](https://hackmd.io/@feenlin)
 ---
-在學習過程中，把筆記記錄在HackMD中，檢視自己的學習過程。
-如果發現有寫錯的地方，請通知我感謝。
-[Note](https://hackmd.io/@feenlin)
+[Linux 基本指令(everything is file)](https://hackmd.io/@feenlin/Sy6TGCveK)
+[C練習](https://hackmd.io/@feenlin/By-oT5PeF)
+[C語言與作業系統觀念](https://hackmd.io/@feenlin/SJSFVuDxF)
